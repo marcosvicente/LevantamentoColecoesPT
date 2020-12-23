@@ -24,7 +24,8 @@ Instalar dependecias do projeto
 
 | Alias | Command      | required | help                   |
 |-------|--------------|----------|------------------------|
-| -o    | --outpu_dir  | False    | Output data directory  |
+| -i    | --input_dir  | False    | Input data directory  |
+| -o    | --output_dir | False    | Output data directory  |
 | -l    | --language   | False    | Language used in files |
 | -d    | --database   | False    | Database name.         |
 | -f    | --file       | True     | Csv file               |
