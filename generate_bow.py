@@ -42,7 +42,7 @@ class GenerateBow():
                     output.write(";")
                 else:
                     output.write("\n")
-s
+
             lines, columns = bow_tf_count_vector.shape
             self.save_file(lines, columns, output, bow_tf_count_vector)
 
