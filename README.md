@@ -2,10 +2,10 @@
 
 
 ## Planilha do projeto
-A planilha com a bases e artigo analizados do presente projeto está disponibilizada para todos pelo link: [https://docs.google.com/spreadsheets/d/1sGK7D46YxuOJ2xekIbkdXBJv51yQLkQUu4pui3JK9do/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1sGK7D46YxuOJ2xekIbkdXBJv51yQLkQUu4pui3JK9do/edit?usp=sharing)
+A planilha com as bases e artigos analizados do presente projeto está disponibilizada pelo link: [https://docs.google.com/spreadsheets/d/1sGK7D46YxuOJ2xekIbkdXBJv51yQLkQUu4pui3JK9do/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1sGK7D46YxuOJ2xekIbkdXBJv51yQLkQUu4pui3JK9do/edit?usp=sharing)
 
 
-# Instalação 
+## Instalação 
 
 Primeiro você precisa criar uma virtual  env:
 ```
@@ -20,7 +20,7 @@ Instalar dependecias do projeto
 
 
 
-# preprocess.py 
+## preprocess.py 
 
 | Alias | Command      | required | help                   |
 |-------|--------------|----------|------------------------|
